@@ -1,3 +1,2 @@
-THIS FILE COUNTAINS LOGISM PROGRAMS
-
-It's a short introduction to logisim and architecture of a computer.
+# CIRC LOGISIM
+this repository contain CIRC code don't forget to install Logisim Generic
